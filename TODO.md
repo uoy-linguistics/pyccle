@@ -1,0 +1,4 @@
+- documentation
+  - read the docs or github pages?
+- author info
+- license info
