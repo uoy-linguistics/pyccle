@@ -92,3 +92,16 @@ As a courtesy, **I would appreciate being notified if you create a
 publication or resource based on PYCCLE** (including a conference
 presentation or poster, academic article, online resource, further
 annotated database, etc.)
+
+## Updates
+
+If you would like to be notified of updates to the corpus, please
+subscribe to
+[this issue](https://github.com/uoy-linguistics/pyccle/issues/1) in the
+project’s Github repository.  Updates will be posted as comments there.
+
+## Reporting issues
+
+You can also use the Github
+[issue tracker](https://github.com/uoy-linguistics/pyccle/issues) to
+report issues with the corpus.
