@@ -85,7 +85,7 @@ off of it, but you are otherwise free to use it as you see fit.  For
 academic publications, an appropriate citation is:
 
 > Ecay, Aaron.  (2015).  “The Penn-York Computer-annotated Corpus of a
-> Large amount of English based on the TCP(PYCCLE-TCP)”.  Public
+> Large amount of English based on the TCP (PYCCLE-TCP)”.  Public
 > release 1.  <https://github.com/uoy-linguistics/pyccle>.
 
 As a courtesy, **I would appreciate being notified if you create a
