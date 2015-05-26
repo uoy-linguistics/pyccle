@@ -14,7 +14,10 @@ You can download the corpus from the following links:
 - [ECCO](https://s3.amazonaws.com/pyccle/pyccle-ecco.tgz)
 
 Please be advised that these are large downloads (1GB for the EEBO;
-100MB for ECCO)
+100MB for ECCO)  This repository *does not* contain the texts, due to
+the inefficiency of git for storing large files.  Eventually, it will
+house the scripts used for constructing the corpus (which are being
+slowly migrated).
 
 ## Composition
 
